@@ -1,0 +1,3 @@
+C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/Y4SAKANI_NO_M4GATAMA.dir
+C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/ZERO_CHECK.dir
