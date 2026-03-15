@@ -50,7 +50,6 @@ events:
         - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\"
-        - "C:\\Users\\skanm\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files\\Java\\jre1.8.0_471\\bin"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
@@ -101,7 +100,7 @@ events:
       .NET Framework\xbf\xeb Microsoft (R) Build Engine \xb9\xf6\xc0\xfc 16.11.6+a918ceb31
       Copyright (C) Microsoft Corporation. All rights reserved.
       
-      \xba\xf4\xb5\xe5 \xbd\xc3\xc0\xdb: 2026-03-13 \xbf\xc0\xc8\xc4 3:27:22
+      \xba\xf4\xb5\xe5 \xbd\xc3\xc0\xdb: 2026-03-16 \xbf\xc0\xc0\xfc 2:07:45
       1 \xb3\xeb\xb5\xe5\xc0\xc7 "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\4.2.3\\CompilerIdC\\CompilerIdC.vcxproj" \xc7\xc1\xb7\xce\xc1\xa7Ʈ(\xb1⺻ \xb4\xeb\xbb\xf3)\xc0Դϴ\xd9.
       PrepareForBuild:
         "Debug\\" \xb5\xf0\xb7\xba\xc5͸\xae\xb8\xa6 \xb8\xb8\xb5\xe9\xb0\xed \xc0ֽ\xc0\xb4ϴ\xd9.
@@ -136,7 +135,7 @@ events:
           \xb0\xe6\xb0\xed 0\xb0\xb3
           \xbf\xc0\xb7\xf9 0\xb0\xb3
       
-      \xb0\xe6\xb0\xfa \xbdð\xa3: 00:00:04.56
+      \xb0\xe6\xb0\xfa \xbdð\xa3: 00:00:02.98
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -180,7 +179,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -217,7 +215,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -254,7 +251,6 @@ events:
       - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -316,9 +312,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/link"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/link.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/link.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/link"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/link"
@@ -427,9 +420,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/link"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/link.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/link.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/link"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/link"
@@ -523,7 +513,6 @@ events:
         - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\"
-        - "C:\\Users\\skanm\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files\\Java\\jre1.8.0_471\\bin"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
@@ -583,7 +572,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -620,7 +608,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -657,7 +644,6 @@ events:
       - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -719,9 +705,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/lld-link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/lld-link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/lld-link"
@@ -830,9 +813,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/lld-link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/lld-link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/lld-link"
@@ -941,9 +921,6 @@ events:
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link.com"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link.exe"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link.com"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link.exe"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link"
       - "C:/Program Files/Java/jre1.8.0_471/bin/lld-link.com"
       - "C:/Program Files/Java/jre1.8.0_471/bin/lld-link.exe"
       - "C:/Program Files/Java/jre1.8.0_471/bin/lld-link"
@@ -1036,7 +1013,6 @@ events:
         - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\"
-        - "C:\\Users\\skanm\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files\\Java\\jre1.8.0_471\\bin"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
@@ -1094,7 +1070,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -1131,7 +1106,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -1168,7 +1142,6 @@ events:
       - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -1230,9 +1203,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/link"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/link.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/link.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/link"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/link"
@@ -1341,9 +1311,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/link"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/link.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/link.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/link"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/link"
@@ -1437,7 +1404,6 @@ events:
         - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\"
-        - "C:\\Users\\skanm\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files\\Java\\jre1.8.0_471\\bin"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
@@ -1495,7 +1461,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -1532,7 +1497,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -1569,7 +1533,6 @@ events:
       - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -1631,9 +1594,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/mt.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/mt.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/mt"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/mt.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/mt.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/mt"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/mt.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/mt.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/mt"
@@ -1742,9 +1702,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/mt.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/mt.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/mt"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/mt.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/mt.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/mt"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/mt.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/mt.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/mt"
@@ -1856,7 +1813,6 @@ events:
         - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\"
-        - "C:\\Users\\skanm\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files\\Java\\jre1.8.0_471\\bin"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
@@ -1914,7 +1870,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -1951,7 +1906,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -1988,7 +1942,6 @@ events:
       - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -2050,9 +2003,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lib.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lib.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lib"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lib.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lib.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lib"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/lib.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/lib.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/lib"
@@ -2161,9 +2111,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lib.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lib.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lib"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lib.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lib.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lib"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/lib.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/lib.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/lib"
@@ -2257,7 +2204,6 @@ events:
         - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\"
-        - "C:\\Users\\skanm\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files\\Java\\jre1.8.0_471\\bin"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
@@ -2325,7 +2271,6 @@ events:
         - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\"
-        - "C:\\Users\\skanm\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files\\Java\\jre1.8.0_471\\bin"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
@@ -2376,7 +2321,7 @@ events:
       .NET Framework\xbf\xeb Microsoft (R) Build Engine \xb9\xf6\xc0\xfc 16.11.6+a918ceb31
       Copyright (C) Microsoft Corporation. All rights reserved.
       
-      \xba\xf4\xb5\xe5 \xbd\xc3\xc0\xdb: 2026-03-13 \xbf\xc0\xc8\xc4 3:27:28
+      \xba\xf4\xb5\xe5 \xbd\xc3\xc0\xdb: 2026-03-16 \xbf\xc0\xc0\xfc 2:07:49
       1 \xb3\xeb\xb5\xe5\xc0\xc7 "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\4.2.3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" \xc7\xc1\xb7\xce\xc1\xa7Ʈ(\xb1⺻ \xb4\xeb\xbb\xf3)\xc0Դϴ\xd9.
       PrepareForBuild:
         "Debug\\" \xb5\xf0\xb7\xba\xc5͸\xae\xb8\xa6 \xb8\xb8\xb5\xe9\xb0\xed \xc0ֽ\xc0\xb4ϴ\xd9.
@@ -2411,7 +2356,7 @@ events:
           \xb0\xe6\xb0\xed 0\xb0\xb3
           \xbf\xc0\xb7\xf9 0\xb0\xb3
       
-      \xb0\xe6\xb0\xfa \xbdð\xa3: 00:00:03.03
+      \xb0\xe6\xb0\xfa \xbdð\xa3: 00:00:01.69
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -2455,7 +2400,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -2492,7 +2436,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -2529,7 +2472,6 @@ events:
       - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -2591,9 +2533,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/lld-link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/lld-link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/lld-link"
@@ -2702,9 +2641,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/lld-link.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/lld-link.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/lld-link"
@@ -2813,9 +2749,6 @@ events:
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link.com"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link.exe"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/lld-link"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link.com"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link.exe"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/lld-link"
       - "C:/Program Files/Java/jre1.8.0_471/bin/lld-link.com"
       - "C:/Program Files/Java/jre1.8.0_471/bin/lld-link.exe"
       - "C:/Program Files/Java/jre1.8.0_471/bin/lld-link"
@@ -2908,7 +2841,6 @@ events:
         - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\"
-        - "C:\\Users\\skanm\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files\\Java\\jre1.8.0_471\\bin"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
@@ -2976,7 +2908,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -3032,7 +2963,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -3088,7 +3018,6 @@ events:
       - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -3183,9 +3112,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/rc.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/rc.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/rc"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/rc.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/rc.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/rc"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/rc.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/rc.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/rc"
@@ -3351,9 +3277,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/rc.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/rc.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/rc"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/rc.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/rc.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/rc"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/rc.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/rc.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/rc"
@@ -3522,7 +3445,6 @@ events:
         - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\"
-        - "C:\\Users\\skanm\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files\\Java\\jre1.8.0_471\\bin"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
@@ -3563,8 +3485,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-lsms7j"
-      binary: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-lsms7j"
+      source: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-2pnzp5"
+      binary: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-2pnzp5"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -3577,38 +3499,38 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-lsms7j'
+        Change Dir: 'C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-2pnzp5'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_c6a1f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_f7696.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         .NET Framework용 Microsoft (R) Build Engine 버전 16.11.6+a918ceb31
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        빌드 시작: 2026-03-13 오후 3:27:32
-        1 노드의 "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lsms7j\\cmTC_c6a1f.vcxproj" 프로젝트(기본 대상)입니다.
+        빌드 시작: 2026-03-16 오전 2:07:51
+        1 노드의 "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2pnzp5\\cmTC_f7696.vcxproj" 프로젝트(기본 대상)입니다.
         PrepareForBuild:
-          "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lsms7j\\Debug\\" 디렉터리를 만들고 있습니다.
-          "cmTC_c6a1f.dir\\Debug\\cmTC_c6a1f.tlog\\" 디렉터리를 만들고 있습니다.
+          "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2pnzp5\\Debug\\" 디렉터리를 만들고 있습니다.
+          "cmTC_f7696.dir\\Debug\\cmTC_f7696.tlog\\" 디렉터리를 만들고 있습니다.
         InitializeBuildStatus:
-          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_c6a1f.dir\\Debug\\cmTC_c6a1f.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
+          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_f7696.dir\\Debug\\cmTC_f7696.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_c6a1f.dir\\Debug\\\\" /Fd"cmTC_c6a1f.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_f7696.dir\\Debug\\\\" /Fd"cmTC_f7696.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ 최적화 컴파일러 버전 19.29.30159(x64)
-          Copyright (c) Microsoft Corporation. All rights reserved.
           CMakeCCompilerABI.c
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_c6a1f.dir\\Debug\\\\" /Fd"cmTC_c6a1f.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_f7696.dir\\Debug\\\\" /Fd"cmTC_f7696.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lsms7j\\Debug\\cmTC_c6a1f.exe" /INCREMENTAL /ILK:"cmTC_c6a1f.dir\\Debug\\cmTC_c6a1f.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-lsms7j/Debug/cmTC_c6a1f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-lsms7j/Debug/cmTC_c6a1f.lib" /MACHINE:X64  /machine:x64 cmTC_c6a1f.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_c6a1f.vcxproj -> C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lsms7j\\Debug\\cmTC_c6a1f.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2pnzp5\\Debug\\cmTC_f7696.exe" /INCREMENTAL /ILK:"cmTC_f7696.dir\\Debug\\cmTC_f7696.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-2pnzp5/Debug/cmTC_f7696.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-2pnzp5/Debug/cmTC_f7696.lib" /MACHINE:X64  /machine:x64 cmTC_f7696.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_f7696.vcxproj -> C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2pnzp5\\Debug\\cmTC_f7696.exe
         FinalizeBuildStatus:
-          "cmTC_c6a1f.dir\\Debug\\cmTC_c6a1f.tlog\\unsuccessfulbuild" 파일을 삭제하고 있습니다.
-          "cmTC_c6a1f.dir\\Debug\\cmTC_c6a1f.tlog\\cmTC_c6a1f.lastbuildstate"에 연결(touching)하고 있습니다.
-        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lsms7j\\cmTC_c6a1f.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+          "cmTC_f7696.dir\\Debug\\cmTC_f7696.tlog\\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+          "cmTC_f7696.dir\\Debug\\cmTC_f7696.tlog\\cmTC_f7696.lastbuildstate"에 연결(touching)하고 있습니다.
+        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2pnzp5\\cmTC_f7696.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
         
         빌드했습니다.
             경고 0개
             오류 0개
         
-        경과 시간: 00:00:01.10
+        경과 시간: 00:00:00.66
         
       exitCode: 0
   -
@@ -3648,8 +3570,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-jrb0mf"
-      binary: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-jrb0mf"
+      source: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-jls5fm"
+      binary: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-jls5fm"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -3663,38 +3585,38 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-jrb0mf'
+        Change Dir: 'C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-jls5fm'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_f99fd.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_8ded9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         .NET Framework용 Microsoft (R) Build Engine 버전 16.11.6+a918ceb31
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        빌드 시작: 2026-03-13 오후 3:27:34
-        1 노드의 "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jrb0mf\\cmTC_f99fd.vcxproj" 프로젝트(기본 대상)입니다.
+        빌드 시작: 2026-03-16 오전 2:07:52
+        1 노드의 "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jls5fm\\cmTC_8ded9.vcxproj" 프로젝트(기본 대상)입니다.
         PrepareForBuild:
-          "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jrb0mf\\Debug\\" 디렉터리를 만들고 있습니다.
-          "cmTC_f99fd.dir\\Debug\\cmTC_f99fd.tlog\\" 디렉터리를 만들고 있습니다.
+          "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jls5fm\\Debug\\" 디렉터리를 만들고 있습니다.
+          "cmTC_8ded9.dir\\Debug\\cmTC_8ded9.tlog\\" 디렉터리를 만들고 있습니다.
         InitializeBuildStatus:
-          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_f99fd.dir\\Debug\\cmTC_f99fd.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
+          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_8ded9.dir\\Debug\\cmTC_8ded9.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_f99fd.dir\\Debug\\\\" /Fd"cmTC_f99fd.dir\\Debug\\vc142.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_8ded9.dir\\Debug\\\\" /Fd"cmTC_8ded9.dir\\Debug\\vc142.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ 최적화 컴파일러 버전 19.29.30159(x64)
           CMakeCXXCompilerABI.cpp
           Copyright (c) Microsoft Corporation. All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_f99fd.dir\\Debug\\\\" /Fd"cmTC_f99fd.dir\\Debug\\vc142.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_8ded9.dir\\Debug\\\\" /Fd"cmTC_8ded9.dir\\Debug\\vc142.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jrb0mf\\Debug\\cmTC_f99fd.exe" /INCREMENTAL /ILK:"cmTC_f99fd.dir\\Debug\\cmTC_f99fd.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-jrb0mf/Debug/cmTC_f99fd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-jrb0mf/Debug/cmTC_f99fd.lib" /MACHINE:X64  /machine:x64 cmTC_f99fd.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_f99fd.vcxproj -> C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jrb0mf\\Debug\\cmTC_f99fd.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jls5fm\\Debug\\cmTC_8ded9.exe" /INCREMENTAL /ILK:"cmTC_8ded9.dir\\Debug\\cmTC_8ded9.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-jls5fm/Debug/cmTC_8ded9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-jls5fm/Debug/cmTC_8ded9.lib" /MACHINE:X64  /machine:x64 cmTC_8ded9.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_8ded9.vcxproj -> C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jls5fm\\Debug\\cmTC_8ded9.exe
         FinalizeBuildStatus:
-          "cmTC_f99fd.dir\\Debug\\cmTC_f99fd.tlog\\unsuccessfulbuild" 파일을 삭제하고 있습니다.
-          "cmTC_f99fd.dir\\Debug\\cmTC_f99fd.tlog\\cmTC_f99fd.lastbuildstate"에 연결(touching)하고 있습니다.
-        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jrb0mf\\cmTC_f99fd.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+          "cmTC_8ded9.dir\\Debug\\cmTC_8ded9.tlog\\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+          "cmTC_8ded9.dir\\Debug\\cmTC_8ded9.tlog\\cmTC_8ded9.lastbuildstate"에 연결(touching)하고 있습니다.
+        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jls5fm\\cmTC_8ded9.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
         
         빌드했습니다.
             경고 0개
             오류 0개
         
-        경과 시간: 00:00:01.58
+        경과 시간: 00:00:00.67
         
       exitCode: 0
   -
@@ -3764,7 +3686,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -3820,7 +3741,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -3876,7 +3796,6 @@ events:
       - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -3971,9 +3890,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/pwsh.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/pwsh.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/pwsh"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/pwsh.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/pwsh.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/pwsh"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/pwsh.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/pwsh.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/pwsh"
@@ -4139,9 +4055,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/pwsh.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/pwsh.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/pwsh"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/pwsh.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/pwsh.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/pwsh"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/pwsh.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/pwsh.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/pwsh"
@@ -4307,9 +4220,6 @@ events:
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/pwsh.com"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/pwsh.exe"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/pwsh"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/pwsh.com"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/pwsh.exe"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/pwsh"
       - "C:/Program Files/Java/jre1.8.0_471/bin/pwsh.com"
       - "C:/Program Files/Java/jre1.8.0_471/bin/pwsh.exe"
       - "C:/Program Files/Java/jre1.8.0_471/bin/pwsh"
@@ -4438,7 +4348,6 @@ events:
         - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\"
-        - "C:\\Users\\skanm\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files\\Java\\jre1.8.0_471\\bin"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
@@ -4509,7 +4418,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -4565,7 +4473,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -4621,7 +4528,6 @@ events:
       - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files/Java/jre1.8.0_471/bin/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
@@ -4716,9 +4622,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/powershell.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/powershell.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/powershell"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/powershell.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/powershell.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Users/skanm/AppData/Local/Programs/Microsoft VS Code/powershell"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/powershell.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/powershell.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/debug/Program Files/Java/jre1.8.0_471/bin/powershell"
@@ -4884,9 +4787,6 @@ events:
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/powershell.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/powershell.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/powershell"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/powershell.com"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/powershell.exe"
-      - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Users/skanm/AppData/Local/Programs/Microsoft VS Code/powershell"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/powershell.com"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/powershell.exe"
       - "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/vcpkg/installed/x64-windows/Program Files/Java/jre1.8.0_471/bin/powershell"
@@ -5052,9 +4952,6 @@ events:
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/powershell.com"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/powershell.exe"
       - "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/Tools/powershell"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/powershell.com"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/powershell.exe"
-      - "C:/Users/skanm/AppData/Local/Programs/Microsoft VS Code/powershell"
       - "C:/Program Files/Java/jre1.8.0_471/bin/powershell.com"
       - "C:/Program Files/Java/jre1.8.0_471/bin/powershell.exe"
       - "C:/Program Files/Java/jre1.8.0_471/bin/powershell"
@@ -5100,7 +4997,6 @@ events:
         - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\"
-        - "C:\\Users\\skanm\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files\\Java\\jre1.8.0_471\\bin"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
@@ -5148,8 +5044,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-m60l7k"
-      binary: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-m60l7k"
+      source: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-1ljsz2"
+      binary: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-1ljsz2"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -5162,38 +5058,38 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-m60l7k'
+        Change Dir: 'C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-1ljsz2'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_b7f1d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_452cf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         .NET Framework용 Microsoft (R) Build Engine 버전 16.11.6+a918ceb31
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        빌드 시작: 2026-03-13 오후 3:27:37
-        1 노드의 "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m60l7k\\cmTC_b7f1d.vcxproj" 프로젝트(기본 대상)입니다.
+        빌드 시작: 2026-03-16 오전 2:07:53
+        1 노드의 "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ljsz2\\cmTC_452cf.vcxproj" 프로젝트(기본 대상)입니다.
         PrepareForBuild:
-          "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m60l7k\\Debug\\" 디렉터리를 만들고 있습니다.
-          "cmTC_b7f1d.dir\\Debug\\cmTC_b7f1d.tlog\\" 디렉터리를 만들고 있습니다.
+          "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ljsz2\\Debug\\" 디렉터리를 만들고 있습니다.
+          "cmTC_452cf.dir\\Debug\\cmTC_452cf.tlog\\" 디렉터리를 만들고 있습니다.
         InitializeBuildStatus:
-          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_b7f1d.dir\\Debug\\cmTC_b7f1d.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
+          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_452cf.dir\\Debug\\cmTC_452cf.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_b7f1d.dir\\Debug\\\\" /Fd"cmTC_b7f1d.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m60l7k\\src.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_452cf.dir\\Debug\\\\" /Fd"cmTC_452cf.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ljsz2\\src.c"
           Microsoft (R) C/C++ 최적화 컴파일러 버전 19.29.30159(x64)
-          Copyright (c) Microsoft Corporation. All rights reserved.
           src.c
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_b7f1d.dir\\Debug\\\\" /Fd"cmTC_b7f1d.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m60l7k\\src.c"
-        C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m60l7k\\src.c(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'pthread.h': No such file or directory [C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m60l7k\\cmTC_b7f1d.vcxproj]
-        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m60l7k\\cmTC_b7f1d.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_452cf.dir\\Debug\\\\" /Fd"cmTC_452cf.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ljsz2\\src.c"
+        C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ljsz2\\src.c(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'pthread.h': No such file or directory [C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ljsz2\\cmTC_452cf.vcxproj]
+        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ljsz2\\cmTC_452cf.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
         
         빌드하지 못했습니다.
         
-        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m60l7k\\cmTC_b7f1d.vcxproj"(기본 대상)(1)->
+        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ljsz2\\cmTC_452cf.vcxproj"(기본 대상)(1)->
         (ClCompile 대상) -> 
-          C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m60l7k\\src.c(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'pthread.h': No such file or directory [C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m60l7k\\cmTC_b7f1d.vcxproj]
+          C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ljsz2\\src.c(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'pthread.h': No such file or directory [C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1ljsz2\\cmTC_452cf.vcxproj]
         
             경고 0개
             오류 1개
         
-        경과 시간: 00:00:00.77
+        경과 시간: 00:00:00.46
         
       exitCode: 1
   -
@@ -5211,8 +5107,8 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-36wplx"
-      binary: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-36wplx"
+      source: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-lfk39p"
+      binary: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-lfk39p"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -5225,40 +5121,40 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-36wplx'
+        Change Dir: 'C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-lfk39p'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_18a7b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_aa232.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         .NET Framework용 Microsoft (R) Build Engine 버전 16.11.6+a918ceb31
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        빌드 시작: 2026-03-13 오후 3:27:38
-        1 노드의 "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-36wplx\\cmTC_18a7b.vcxproj" 프로젝트(기본 대상)입니다.
+        빌드 시작: 2026-03-16 오전 2:07:54
+        1 노드의 "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lfk39p\\cmTC_aa232.vcxproj" 프로젝트(기본 대상)입니다.
         PrepareForBuild:
-          "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-36wplx\\Debug\\" 디렉터리를 만들고 있습니다.
-          "cmTC_18a7b.dir\\Debug\\cmTC_18a7b.tlog\\" 디렉터리를 만들고 있습니다.
+          "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lfk39p\\Debug\\" 디렉터리를 만들고 있습니다.
+          "cmTC_aa232.dir\\Debug\\cmTC_aa232.tlog\\" 디렉터리를 만들고 있습니다.
         InitializeBuildStatus:
-          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_18a7b.dir\\Debug\\cmTC_18a7b.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
+          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_aa232.dir\\Debug\\cmTC_aa232.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_18a7b.dir\\Debug\\\\" /Fd"cmTC_18a7b.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-36wplx\\CheckFunctionExists.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_aa232.dir\\Debug\\\\" /Fd"cmTC_aa232.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lfk39p\\CheckFunctionExists.c"
           Microsoft (R) C/C++ 최적화 컴파일러 버전 19.29.30159(x64)
           CheckFunctionExists.c
           Copyright (c) Microsoft Corporation. All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_18a7b.dir\\Debug\\\\" /Fd"cmTC_18a7b.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-36wplx\\CheckFunctionExists.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_aa232.dir\\Debug\\\\" /Fd"cmTC_aa232.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lfk39p\\CheckFunctionExists.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-36wplx\\Debug\\cmTC_18a7b.exe" /INCREMENTAL /ILK:"cmTC_18a7b.dir\\Debug\\cmTC_18a7b.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-36wplx/Debug/cmTC_18a7b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-36wplx/Debug/cmTC_18a7b.lib" /MACHINE:X64  /machine:x64 cmTC_18a7b.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: 'pthreads.lib' 파일을 열 수 없습니다. [C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-36wplx\\cmTC_18a7b.vcxproj]
-        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-36wplx\\cmTC_18a7b.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lfk39p\\Debug\\cmTC_aa232.exe" /INCREMENTAL /ILK:"cmTC_aa232.dir\\Debug\\cmTC_aa232.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-lfk39p/Debug/cmTC_aa232.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-lfk39p/Debug/cmTC_aa232.lib" /MACHINE:X64  /machine:x64 cmTC_aa232.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: 'pthreads.lib' 파일을 열 수 없습니다. [C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lfk39p\\cmTC_aa232.vcxproj]
+        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lfk39p\\cmTC_aa232.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
         
         빌드하지 못했습니다.
         
-        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-36wplx\\cmTC_18a7b.vcxproj"(기본 대상)(1)->
+        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lfk39p\\cmTC_aa232.vcxproj"(기본 대상)(1)->
         (Link 대상) -> 
-          LINK : fatal error LNK1104: 'pthreads.lib' 파일을 열 수 없습니다. [C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-36wplx\\cmTC_18a7b.vcxproj]
+          LINK : fatal error LNK1104: 'pthreads.lib' 파일을 열 수 없습니다. [C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-lfk39p\\cmTC_aa232.vcxproj]
         
             경고 0개
             오류 1개
         
-        경과 시간: 00:00:01.12
+        경과 시간: 00:00:00.55
         
       exitCode: 1
   -
@@ -5276,8 +5172,8 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-af6ljz"
-      binary: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-af6ljz"
+      source: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-pm6tg2"
+      binary: "C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-pm6tg2"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -5290,40 +5186,40 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-af6ljz'
+        Change Dir: 'C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-pm6tg2'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_ed9a2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_3fa83.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         .NET Framework용 Microsoft (R) Build Engine 버전 16.11.6+a918ceb31
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        빌드 시작: 2026-03-13 오후 3:27:40
-        1 노드의 "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-af6ljz\\cmTC_ed9a2.vcxproj" 프로젝트(기본 대상)입니다.
+        빌드 시작: 2026-03-16 오전 2:07:55
+        1 노드의 "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pm6tg2\\cmTC_3fa83.vcxproj" 프로젝트(기본 대상)입니다.
         PrepareForBuild:
-          "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-af6ljz\\Debug\\" 디렉터리를 만들고 있습니다.
-          "cmTC_ed9a2.dir\\Debug\\cmTC_ed9a2.tlog\\" 디렉터리를 만들고 있습니다.
+          "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pm6tg2\\Debug\\" 디렉터리를 만들고 있습니다.
+          "cmTC_3fa83.dir\\Debug\\cmTC_3fa83.tlog\\" 디렉터리를 만들고 있습니다.
         InitializeBuildStatus:
-          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_ed9a2.dir\\Debug\\cmTC_ed9a2.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
+          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_3fa83.dir\\Debug\\cmTC_3fa83.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_ed9a2.dir\\Debug\\\\" /Fd"cmTC_ed9a2.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-af6ljz\\CheckFunctionExists.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_3fa83.dir\\Debug\\\\" /Fd"cmTC_3fa83.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pm6tg2\\CheckFunctionExists.c"
           Microsoft (R) C/C++ 최적화 컴파일러 버전 19.29.30159(x64)
-          Copyright (c) Microsoft Corporation. All rights reserved.
           CheckFunctionExists.c
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_ed9a2.dir\\Debug\\\\" /Fd"cmTC_ed9a2.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-af6ljz\\CheckFunctionExists.c"
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_3fa83.dir\\Debug\\\\" /Fd"cmTC_3fa83.dir\\Debug\\vc142.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pm6tg2\\CheckFunctionExists.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-af6ljz\\Debug\\cmTC_ed9a2.exe" /INCREMENTAL /ILK:"cmTC_ed9a2.dir\\Debug\\cmTC_ed9a2.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-af6ljz/Debug/cmTC_ed9a2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-af6ljz/Debug/cmTC_ed9a2.lib" /MACHINE:X64  /machine:x64 cmTC_ed9a2.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: 'pthread.lib' 파일을 열 수 없습니다. [C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-af6ljz\\cmTC_ed9a2.vcxproj]
-        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-af6ljz\\cmTC_ed9a2.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pm6tg2\\Debug\\cmTC_3fa83.exe" /INCREMENTAL /ILK:"cmTC_3fa83.dir\\Debug\\cmTC_3fa83.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-pm6tg2/Debug/cmTC_3fa83.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/skanm/Desktop/Y4sakani-no-M4gatama/build/CMakeFiles/CMakeScratch/TryCompile-pm6tg2/Debug/cmTC_3fa83.lib" /MACHINE:X64  /machine:x64 cmTC_3fa83.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: 'pthread.lib' 파일을 열 수 없습니다. [C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pm6tg2\\cmTC_3fa83.vcxproj]
+        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pm6tg2\\cmTC_3fa83.vcxproj" 프로젝트를 빌드했습니다(기본 대상). - 실패
         
         빌드하지 못했습니다.
         
-        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-af6ljz\\cmTC_ed9a2.vcxproj"(기본 대상)(1)->
+        "C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pm6tg2\\cmTC_3fa83.vcxproj"(기본 대상)(1)->
         (Link 대상) -> 
-          LINK : fatal error LNK1104: 'pthread.lib' 파일을 열 수 없습니다. [C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-af6ljz\\cmTC_ed9a2.vcxproj]
+          LINK : fatal error LNK1104: 'pthread.lib' 파일을 열 수 없습니다. [C:\\Users\\skanm\\Desktop\\Y4sakani-no-M4gatama\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pm6tg2\\cmTC_3fa83.vcxproj]
         
             경고 0개
             오류 1개
         
-        경과 시간: 00:00:01.32
+        경과 시간: 00:00:00.56
         
       exitCode: 1
   -
@@ -5407,7 +5303,6 @@ events:
         - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\IDE\\"
         - "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\"
-        - "C:\\Users\\skanm\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files\\Java\\jre1.8.0_471\\bin"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
         - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
