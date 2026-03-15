@@ -1,0 +1,5 @@
+# vcpkg
+vcpkg/
+
+# Build
+build/
